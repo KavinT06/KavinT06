@@ -30,8 +30,6 @@ Frontend developer with a strong focus on polished product UI, reusable architec
   <a href="https://kavint.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-> Replace LinkedIn, Email, and Portfolio with your real links.
-
 ## 💼 Professional Frontend Toolbox
 
 ### Languages & Frameworks
@@ -89,7 +87,7 @@ Frontend developer with a strong focus on polished product UI, reusable architec
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111827,100:000000&text=Keep%20it%20simple,%20make%20it%20fast,%20and%20build%20for%20users.&fontColor=ffffff&fontSize=22" width="100%" />
-  <p><strong>Keep it simple, make it fast, and build for users.</strong></p>
+  <!-- <p><strong>Keep it simple, make it fast, and build for users.</strong></p> -->
 </div>
 
 ## ☕ Support My Work
