@@ -82,7 +82,7 @@ Frontend developer with a strong focus on polished product UI, reusable architec
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KavinT06/KavinT06/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/KavinT06/KavinT06/blob/output/github-contribution-grid-snake.svg?raw=1" alt="Snake animation" />
 </div>
 
 ## ✨ Developer Quote
