@@ -25,9 +25,9 @@ Frontend developer with a strong focus on polished product UI, reusable architec
 
 <p align="left">
   <a href="https://github.com/KavinT06" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kavint6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:itskavin47@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kavint.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 > Replace LinkedIn, Email, and Portfolio with your real links.
@@ -69,38 +69,34 @@ Frontend developer with a strong focus on polished product UI, reusable architec
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KavinT06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinT06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KavinT06&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinT06&layout=compact&hide_border=false&langs_count=8&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=KavinT06&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=KavinT06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img height="170" src="https://streak-stats.demolab.com?user=KavinT06&theme=black-ice&hide_border=false&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" />
+<img height="170" src="https://github-profile-trophy.vercel.app/?username=KavinT06&theme=onestar&no-frame=false&no-bg=false&margin-w=8&row=1&column=6" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KavinT06&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KavinT06&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=111827&hide_border=false" />
 
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/KavinT06/KavinT06/blob/output/github-contribution-grid-snake.svg?raw=1" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/KavinT06/KavinT06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## ✨ Developer Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111827,100:000000&text=Keep%20it%20simple,%20make%20it%20fast,%20and%20build%20for%20users.&fontColor=ffffff&fontSize=22" width="100%" />
+  <p><strong>Keep it simple, make it fast, and build for users.</strong></p>
 </div>
 
 ## ☕ Support My Work
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://www.buymeacoffee.com/kavint" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me A Coffee" />
   </a>
 </div>
 
-<div align="center">
-
-### "Great frontend is where performance, design, and user empathy meet."
-
-</div>
