@@ -63,19 +63,6 @@ Frontend developer with a strong focus on polished product UI, reusable architec
 - ♿ Improving accessibility and inclusive UX standards
 - 📈 Shipping features with measurable product impact
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KavinT06&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinT06&layout=compact&hide_border=false&langs_count=8&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=KavinT06&theme=black-ice&hide_border=false&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" />
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=KavinT06&theme=onestar&no-frame=false&no-bg=false&margin-w=8&row=1&column=6" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KavinT06&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=111827&hide_border=false" />
-
-</div>
 
 ## 🐍 Contribution Snake
 
