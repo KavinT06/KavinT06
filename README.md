@@ -22,4 +22,4 @@
                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-Frontend Engineering • Android Development • Building Better Digital Experiences
+Frontend Engineering • Android Development • AI & Automation
